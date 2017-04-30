@@ -1,0 +1,111 @@
+* {
+    margin: 0;
+    padding: 0;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.header {
+    width: auto;
+    background-color: #fff;
+    height: 100px;
+    background-position: center center;
+    background-size: cover;
+    font-family: 'PT Sans', sans-serif;
+    
+}
+
+.header h3 {
+    font-size: 30px;
+    float: left;
+    padding: 30px 30px;
+}
+
+.header li {
+    list-style: none;
+    float: right;
+    padding: 30px 30px;
+    font-size: 20px;
+}
+
+.hero {
+    background-image: url(../img/heroimg2.png);
+    height: 900px;
+    background-position: center center;
+    background-size: cover;
+}
+
+.hero h1 {
+    font-size: 100px;
+    text-align: center;
+    padding-top: 400px;
+    color: #382d2d;
+    font-family: 'PT Sans', sans-serif;
+}
+
+.concept {
+    background-color: #fff;
+    overflow: hidden;
+}
+
+.concept img {
+    margin: 30px;
+    border-radius: 10px;
+    float: left;
+    
+}
+
+.concept h3 {
+    margin-left: 500px;
+    margin-top: 80px;
+    font-family: 'PT Sans', sans-serif;
+    font-size: 40px;
+}
+
+.concept p {
+    margin-top: 50px;
+    float: left;
+    font-size: 15px;
+    
+}
+
+.menu {
+    background-color: #585050;
+    overflow: hidden;
+    height: 500px;
+}
+
+.menu h2 {
+    font-family: 'PT Sans', sans-serif;
+    font-size:40px;
+    
+}
+
+.menu img {
+    height: 300px;
+    width: 400px;
+    background-position: center center;
+    float: left;
+    background-size: cover;
+    margin-top: 50px;
+}
+
+.menu h4 {
+    font-family: 'PT Sans', sans-serif;
+    float: left;
+}
+
+.info {
+    float: left;
+    overflow: hidden;
+    background-color: #fff;
+}
+
+.info p {
+    float: left;
+}
+
+.info img {
+    float: left;
+}
